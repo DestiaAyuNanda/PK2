@@ -19,3 +19,10 @@ li {
 .selected{
   color:#ff0000;
 }
+
+li{
+  list-style: none;
+  float:left;
+}
+.header-logo{
+  font-size
