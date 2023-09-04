@@ -4,12 +4,16 @@ h1 {
   background-color:#f3f372;
   height:80px;
   width:200px;
-
 }
+
+.footer{
+  background-color:#cecc;
+  height:270px;
+}
+
 img {
   height:50px;
   width:70px;
-
 }
 
 li {
