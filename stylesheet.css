@@ -12,6 +12,10 @@ img {
 
 }
 
+li {
+  color:#444;
+}
+
 .selected{
-  color.red;
+  color:#ff0000;
 }
