@@ -23,7 +23,8 @@ li {
   padding: 33px 20px;
 }
 
-text-decoration: none;
+a{
+  text-decoration: none;
 }
 
 .container {
